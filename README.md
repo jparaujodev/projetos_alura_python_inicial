@@ -3,7 +3,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Projeto mostrando um pouco sobre o backand de um suposto app de restaurantes, onde testei meus conhecimento em class, method, trabalho com múltiplos arquivos.
+Projeto mostrando um pouco sobre o backend de um suposto app de restaurantes, onde testei meus conhecimento em class, method, trabalho com múltiplos arquivos.
 </p>
 
 ## Funcionalidades Projeto 
